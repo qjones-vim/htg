@@ -1,0 +1,8 @@
+favoriteDrink: coffee
+favorite:
+  drink: ""
+  food: pizza
+isAllowed: true
+isAdmin: false
+
+
